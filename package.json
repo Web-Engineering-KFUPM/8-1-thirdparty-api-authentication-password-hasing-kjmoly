@@ -1,5 +1,5 @@
 {
-  "name": "8-1-Thirdparty-API-Authentication-Password-Hasing",
+  "name": "8-1-thirdparty-api-authentication-password-hasing",
   "version": "1.0.0",
   "description": "Simple lab: password hashing, JWT auth, third-party weather API",
   "main": "server.js",
@@ -10,7 +10,18 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.2"
-  }
+    "express": "^4.22.1",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Engineering-KFUPM/8-1-thirdparty-api-authentication-password-hasing-kjmoly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Web-Engineering-KFUPM/8-1-thirdparty-api-authentication-password-hasing-kjmoly/issues"
+  },
+  "homepage": "https://github.com/Web-Engineering-KFUPM/8-1-thirdparty-api-authentication-password-hasing-kjmoly#readme"
 }
